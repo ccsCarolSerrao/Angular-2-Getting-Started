@@ -1,2 +1,5 @@
 # Angular-2-Getting-Started
 Pluralsight Angular 2 Getting Started
+
+(Debora Kurata)
+Whether you are new to Angular or new to Angular 2, if you want to create great web apps and stay up to date on the latest app development technologies, you're going to want to come up to speed quickly with Angular 2's components, templates, and services. This course provides the basics you need to get started building an Angular 2 application. First, you'll learn how to set up your environment, learning about components, templates, and data binding and how they work together. Next, you'll discover how to build clean components with strongly-typed code, as well as building nested components and how to use dependency injection to inject the services you build. Finally, you'll cover how to retrieve data using HTTP, navigation and routing, and you'll revisit the Angular 2 setup process. By the end of this course, you'll be up to date on all the latest Angular 2 knowledge and you'll be able to use Angular 2 to create great apps in the future.
